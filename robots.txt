@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /next-move-backup
+
+Host: https://confinity.github.io/Amalgam-staging-site
+Sitemap: https://confinity.github.io/Amalgam-staging-site/sitemap.xml

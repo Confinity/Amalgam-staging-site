@@ -1,0 +1,4 @@
+:HL["/Amalgam-staging-site/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Amalgam-staging-site/_next/static/css/21365fa794fd0dd9.css","style"]
+:HL["/Amalgam-staging-site/_next/static/css/e7358e5a6820ab2b.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"playbooks","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"fix-delivery-drag","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"g1uh4aJlg9yXyY_2f-LJ_"}
