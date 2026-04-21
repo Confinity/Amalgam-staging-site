@@ -1,4 +1,4 @@
 :HL["/Amalgam-staging-site/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Amalgam-staging-site/_next/static/css/2f622e9a8e0373fe.css","style"]
+:HL["/Amalgam-staging-site/_next/static/css/7c876a0ae48c836f.css","style"]
 :HL["/Amalgam-staging-site/_next/static/css/e7358e5a6820ab2b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"case-studies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tiaa","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"c_ApHCF3OSw4ejh7qQW5X"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"case-studies","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tiaa","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"lDjEimCGEBsfeTw-nGI_8"}
