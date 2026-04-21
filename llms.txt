@@ -10,14 +10,13 @@
 
 ## How we build
 
-Every engagement runs on the Amalgam Operating System. Six layers your team inherits:
+Every engagement runs on the Amalgam Operating System. Five steps your team inherits:
 
-1. **Read**: what's actually blocking the next move.
-2. **Architect**: data, agents, APIs, and the contracts between them.
-3. **Build**: software with guardrails from day one.
-4. **Observe**: agents, humans, cost, and reliability in one view.
-5. **Escalate**: precisely to humans, at the thresholds you set.
-6. **Operate**: audit-ready, every day.
+1. **Foundations**: the systems we bring on day one — a Miro research canvas for business plan and growth, reusable agentic workflows and model policies, and a design system.
+2. **Discovery**: read the real system before changing it. A map of what actually runs your business and a shortlist of what has to change first.
+3. **Design**: product, experience, and architecture decided together. Flows, data contracts, and sequence diagrams any engineer can build from.
+4. **Build**: ship software with guardrails from day one. Evals, feature flags, a rollback plan, and humans in the loop on the decisions that matter.
+5. **Operate**: audit-ready every day. Dashboards, a weekly operating review, and audit logs compliance can forward without translation.
 
 https://amalgam-inc.com/#how-we-build
 
